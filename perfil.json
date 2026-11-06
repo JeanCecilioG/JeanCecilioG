@@ -1,0 +1,29 @@
+{
+  "usuario": "JeanCecilioG",
+  "titulo": "jean@cecilio",
+  "incluirPrivados": false,
+  "blocos": [
+    [
+      ["OS", "Windows, macOS"],
+      ["Host", "Nova Era, MG"],
+      ["Kernel", "Ciência da Computação · Engenharia Elétrica"],
+      ["IDE", "VS Code, IntelliJ, PyCharm"]
+    ],
+    [
+      ["Linguagens.Programação", "Java, Python, TypeScript, SQL"],
+      ["Linguagens.Humanas", "Português, Inglês, Espanhol"]
+    ],
+    [
+      ["Hobbies.Hardware", "Arduino, ESP32, sensores EMG"],
+      ["Hobbies.Software", "Visão computacional, IA"]
+    ],
+    { "secao": "Contato" },
+    [
+      ["E-mail", "jeancecilio@icloud.com"],
+      ["LinkedIn", "in/jean-cecilio"],
+      ["Instagram", "@jeanceciliogo"],
+      ["Site", "jeancecilio.vercel.app"]
+    ],
+    { "secao": "GitHub" }
+  ]
+}
